@@ -9,7 +9,7 @@ I work on practical machine learning systems with a research-oriented approach: 
 - AI/ML engineering
 - Computer vision
 - LLM fine-tuning and model adaptation
-- Medical AI as an application domain
+- Medical AI
 
 ## Stack
 
